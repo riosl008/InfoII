@@ -1,0 +1,2 @@
+Introduce un numero entero (0 para salir):
+La raiz cuadrada de 25 es 5.00

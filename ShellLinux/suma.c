@@ -2,7 +2,9 @@
 
 int main (void)
 {
-printf("Hola mundo\n");
+int a = 2, b = 3;
 
-return 0;
+
+return a+b;
+
 }
